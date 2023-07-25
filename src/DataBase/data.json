@@ -1,0 +1,270 @@
+{
+  "Admin": [
+    {
+      "Name": "Bhavu",
+      "Email": "bhavesh@gmail.com",
+      "Pass": "123",
+      "id": 1
+    },
+    {
+      "Name": "Bhavu2",
+      "Email": "bhavu@gmail.com",
+      "Pass": "1234",
+      "id": 2
+    },
+    {
+      "Name": "Bhavu3",
+      "Email": "bhaveshrawal@gmail.com",
+      "Pass": "1235",
+      "id": 3
+    }
+  ],
+  "Products": [
+    {
+      "ProductName": "American Chief",
+      "Created": "Admin",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/23.jpg",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "1299",
+      "Qty": "100",
+      "Brand": "Taj Silver",
+      "id": 2
+    },
+    {
+      "ProductName": "Black Angel",
+      "Created": "Admin",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/11.jpg",
+      "Price": "999",
+      "Qty": "120",
+      "Brand": "Taj Silver",
+      "id": 3
+    },
+    {
+      "ProductName": "Black Auti",
+      "Created": "Admin",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/163026360923.jpg",
+      "Price": "1344",
+      "Qty": "110",
+      "Brand": "Taj Silver",
+      "id": 4
+    },
+    {
+      "ProductName": "Black Hawk",
+      "Created": "Admin",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/15879083902.jpg",
+      "Price": "1500",
+      "Qty": "11",
+      "Brand": "Taj Silver",
+      "id": 5
+    },
+    {
+      "ProductName": "Butterfly Moon",
+      "Created": "Admin",
+      "Category": "Women Ear Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/IMG_7803CC.jpg",
+      "Price": "1000",
+      "Qty": "50",
+      "Brand": "Taj Silver",
+      "id": 6
+    },
+    {
+      "ProductName": "Apple of My Eye",
+      "Created": "Admin",
+      "Category": "Women Ear Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/IMG_7827CC.jpg",
+      "Price": "1999",
+      "Qty": "34",
+      "Brand": "Taj Silver",
+      "id": 7
+    },
+    {
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/IMG_7750CC.jpg",
+      "Created": "Admin",
+      "ProductName": "Arch Solitaires ",
+      "Category": "Women Ear Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "999",
+      "Qty": "1200",
+      "Brand": "Taj Silver",
+      "id": 8
+    },
+    {
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/15908396621.jpg",
+      "Created": "Admin",
+      "ProductName": "Curvy Strings",
+      "Category": "Women Ear Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "1999",
+      "Qty": "122",
+      "Brand": "Taj Silver",
+      "id": 9
+    },
+    {
+      "ProductName": "All Eye On You",
+      "Created": "Admin",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/wg_31.jpg",
+      "Price": "899",
+      "Qty": "100",
+      "Brand": "Taj Silver",
+      "id": 10
+    },
+    {
+      "ProductName": "Amazing Ribbon",
+      "Created": "Admin",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/15888521921.jpg",
+      "Price": "1300",
+      "Qty": "122",
+      "Brand": "Taj Silver",
+      "id": 11
+    },
+    {
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/158739403819RC.jpg",
+      "Created": "Admin",
+      "ProductName": "Aura Droplet Red",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "2999",
+      "Qty": "25",
+      "Brand": "Taj Silver",
+      "id": 12
+    },
+    {
+      "ProductName": "Double Heart",
+      "Created": "Admin",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/wg_11.jpg",
+      "Price": "1499",
+      "Qty": "20",
+      "Brand": "Taj Silver",
+      "id": 13
+    },
+    {
+      "ProductName": "Great Unity",
+      "Created": "Admin",
+      "Category": "Mens Braslate",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/161675758216003321881.jpg",
+      "Price": "1200",
+      "Qty": "11",
+      "Brand": "Taj Silver",
+      "id": 14
+    },
+    {
+      "ProductName": "Harmonium Music",
+      "Created": "Admin",
+      "Category": "Mens Braslate",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/16110764901598874986e1.jpg",
+      "Price": "1233",
+      "Qty": "12",
+      "Brand": "Taj Silver",
+      "id": 15
+    },
+    {
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/16167831768.jpg",
+      "Created": "Admin",
+      "ProductName": "The Challenger",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Category": "Mens Braslate",
+      "Price": "1200",
+      "Qty": "11",
+      "Brand": "Taj Silver",
+      "id": 16
+    },
+    {
+      "ProductName": "White Swan",
+      "Created": "Admin",
+      "Category": "Mens Braslate",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/1633539378f3.jpg",
+      "Price": "2999",
+      "Qty": "100",
+      "Brand": "Taj Silver",
+      "id": 17
+    },
+    {
+      "id": 18,
+      "ProductName": "All Eyes on U",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/wg_31.jpg",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "150",
+      "Qty": "12",
+      "Brand": "Taj Silver",
+      "Created": "Admin"
+    }
+  ],
+  "Category": [
+    {
+      "CategoryName": "Men Rings",
+      "Created": "Admin",
+      "CategoryCode": "MR12",
+      "Category_Img_URL": "https://tajmahalsilver.com/gorillas/upload/categorybanner/16303491512Untitled-1.jpg",
+      "Description": "Mens Rings From Taj Silver",
+      "id": 1
+    },
+    {
+      "CategoryName": "Women Ring",
+      "Created": "Admin",
+      "CategoryCode": "WR121",
+      "Category_Img_URL": "https://tajmahalsilver.com/gorillas/upload/categorybanner/162901776518566.jpg",
+      "Description": "Women 👩🏻☕☕",
+      "id": 2
+    },
+    {
+      "CategoryName": "Mens Braslate",
+      "Created": "Admin",
+      "CategoryCode": "MB111",
+      "Category_Img_URL": "https://tajmahalsilver.com/gorillas/upload/categorybanner/16304376729IMG_1166.jpg",
+      "Description": "The Boys 😁",
+      "id": 3
+    },
+    {
+      "Category_Img_URL": "https://tajmahalsilver.com/gorillas/upload/categorybanner/16309976273IMG_1204.jpg",
+      "Created": "Admin",
+      "CategoryName": "Women Ear Rings",
+      "CategoryCode": "WER112",
+      "Description": "Women Ear Rings 👧🏻👧🏻",
+      "id": 4
+    }
+  ],
+  "Cart": [
+    {
+      "Qty": "100",
+      "ProductName": "American Chief",
+      "Created": "Admin",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/23.jpg",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "1299",
+      "Brand": "Taj Silver",
+      "id": "2"
+    },
+    {
+      "Qty": "11",
+      "ProductName": "Black Hawk",
+      "Created": "Admin",
+      "Category": "Men Rings",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/15879083902.jpg",
+      "Price": "1500",
+      "Brand": "Taj Silver",
+      "id": "5"
+    }
+  ],
+  "Whishlist": []
+}
