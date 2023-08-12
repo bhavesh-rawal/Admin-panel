@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app-admin/static/css/main.8936ad89.css",
-    "main.js": "/my-app-admin/static/js/main.2816989e.js",
-    "index.html": "/my-app-admin/index.html",
-    "main.8936ad89.css.map": "/my-app-admin/static/css/main.8936ad89.css.map",
-    "main.2816989e.js.map": "/my-app-admin/static/js/main.2816989e.js.map"
+    "main.css": "/tyscript-app-admin/static/css/main.8936ad89.css",
+    "main.js": "/tyscript-app-admin/static/js/main.2816989e.js",
+    "index.html": "/tyscript-app-admin/index.html",
+    "main.8936ad89.css.map": "/tyscript-app-admin/static/css/main.8936ad89.css.map",
+    "main.2816989e.js.map": "/tyscript-app-admin/static/js/main.2816989e.js.map"
   },
   "entrypoints": [
     "static/css/main.8936ad89.css",
