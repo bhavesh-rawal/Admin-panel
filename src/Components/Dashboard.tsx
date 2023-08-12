@@ -1,7 +1,30 @@
+import React, { Fragment } from "react";
+import ReactPlayer from "react-player";
+
+
 const Dashboard = () => {
+
+    // useEffect(() => {
+    //     videoRef.current.addEventListener(
+    //         "contextmenu",
+    //         function (e) {
+    //             e.preventDefault();
+    //         },
+    //         false
+    //     );
+
+    //     return videoRef.current.removeEventListener(
+    //         "contextmenu",
+    //         function (e) {
+    //             e.preventDefault();
+    //         },
+    //         false
+    //     );
+    // }, []);
+
     return (<>
 
-        <div className="main">
+        {/* <div className="main">
             <div className="searchbar2">
                 <input type="text" name="" id="" placeholder="Search" />
                 <div className="searchbtn">
@@ -50,10 +73,27 @@ const Dashboard = () => {
                     <img src="https://media.geeksforgeeks.org/wp-content/uploads/20221210185029/13.png" alt="published" />
                 </div>
             </div>
-        </div>
+        </div> */}
 
 
 
-    </>);
+
+
+
+        <Fragment>
+            <div className="main">
+                <div>
+                    <ReactPlayer
+                        width="100%"
+                        height="100%"
+                        controls={true}
+                        url={"https://media.w3.org/2010/05/sintel/trailer_hd.mp4"}
+                        config={{ file: { attributes: { controlsList: "download" } } }}
+                    />
+                </div>
+            </div>
+        </Fragment>
+    </>)
 };
+
 export default Dashboard;

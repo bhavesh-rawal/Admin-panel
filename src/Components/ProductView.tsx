@@ -35,7 +35,6 @@ const CategoryView: React.FC = () => {
         Category: "",
         Description: "",
         Price: null,
-        Qty: null,
         Brand: ""
     };
 
@@ -120,10 +119,6 @@ const CategoryView: React.FC = () => {
             dataIndex: 'Brand',
         },
         {
-            title: 'Quantity',
-            dataIndex: 'Qty',
-        },
-        {
             title: 'Action',
             key: 'action',
             // sorter: true,
@@ -204,11 +199,6 @@ const CategoryView: React.FC = () => {
                                             </div>
                                         </div>
                                         <div className="row">
-                                            <div className="col-md-6 mb-4">
-                                                <div className="form-outline">
-                                                    <input type="number" onChange={abc} value={Obj.Qty || ""} name="Qty" placeholder="Quantity" className="form-control form-control-lg" />
-                                                </div>
-                                            </div>
                                             <div className="col-md-6 mb-4">
                                                 <div className="form-outline">
                                                     <input type="text" onChange={abc} value={Obj.Brand || ""} name="Brand" placeholder="Brand" className="form-control form-control-lg" />
