@@ -261,18 +261,19 @@
       "id": "3",
       "quantity": "4",
       "totalPrice": "3996"
+    },
+    {
+      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/158739403819RC.jpg",
+      "Created": "Admin",
+      "ProductName": "Aura Droplet Red",
+      "Category": "Women Ring",
+      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
+      "Price": "2999",
+      "Brand": "Taj Silver",
+      "id": "12",
+      "quantity": "3",
+      "totalPrice": "8997"
     }
   ],
-  "Whishlist": [
-    {
-      "ProductName": "Black Hawk",
-      "Created": "Admin",
-      "Category": "Men Rings",
-      "Description": "Made from pure sterling silver 925 it is truly eye catching. The center round white cubic zirconia is set in a eye shaped tube setting. The gaps along the side of the white stone allow for natural light to enter and lets the stone light up brightly. Small whites stones sit neatly in a row in the band. They are channel set and match the main stones setting in look and feel. This ring will dazzle and with it you will attract attention when worn. All eyes will be on you.",
-      "Product_Img_URL": "https://tajmahalsilver.com/gorillas/upload/15879083902.jpg",
-      "Price": "1500",
-      "Brand": "Taj Silver",
-      "id": "5"
-    }
-  ]
+  "Whishlist": []
 }

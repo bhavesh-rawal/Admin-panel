@@ -1,12 +1,13 @@
 
 import { ViewData } from "../Services/AjaxService";
+import { Products } from "../Services/Config";
 import { ActionTypes } from "./ActionTypes";
 
 
 
 let flg = true;
 if (flg) {
-    var Prolist = ViewData("Products");
+    var Prolist = ViewData(Products);
     flg = false;
 }
 
