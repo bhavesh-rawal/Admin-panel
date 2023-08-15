@@ -1,11 +1,14 @@
 
 import { ViewData } from "../Services/AjaxService";
+import { Category } from "../Services/Config";
 import { ActionTypes } from "./ActionTypes";
 
 
 let flg = true;
 if (flg) {
-    var Catlist = ViewData("Category");
+    var Catlist = ViewData(Category);
+    console.log(Catlist);
+    
     flg = false;
 }
 

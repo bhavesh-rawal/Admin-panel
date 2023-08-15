@@ -1,12 +1,12 @@
 import $ from "jquery";
-import { URL } from "./Config";
+// import { URL } from "./Config";
 import Swal from "sweetalert2";
 
 
-export const SaveData = (Obj: any, ky: string) => {
+export const SaveData = (Obj: any, urll: string) => {
     var ab = '';
     $.ajax({
-        url: `${URL}${ky}`,
+        url: `${urll}`,
         method: 'post',
         data: Obj,
         async: false,
@@ -15,23 +15,23 @@ export const SaveData = (Obj: any, ky: string) => {
             Swal.fire({
                 icon: 'success',
                 title: 'Added !',
-                text: `Your ${ky}`,
+                text: `Your Value`,
             })
         },
         error: (err: any) => {
             Swal.fire({
                 icon: 'error',
                 title: `Error...`,
-                text: `Something went wrong! ${err}`,
+                text: `Something went wrong! ${JSON.stringify( err)}`,
             })
         }
     });
     return ab;
 };
-export const deleteData = (obj: any, ac: string) => {
+export const deleteData = (obj: any, urll: string) => {
     let abb = -1;
     $.ajax({
-        url: `${URL}${ac}/${obj}`,
+        url: `${urll}/${obj}`,
         method: 'delete',
         success: (data: any) => {
             abb = data;
@@ -53,10 +53,10 @@ export const deleteData = (obj: any, ac: string) => {
     return abb;
 };
 
-export const ViewData = (ky: any) => {
+export const ViewData = (urll: any) => {
     var List: any[] = [];
     $.ajax({
-        url: `${URL}${ky}`,
+        url: `${urll}`,
         method: "get",
         async: false,
         success: function (abc: any) {

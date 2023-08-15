@@ -3,11 +3,12 @@ import { DeleteOutlined, EditOutlined } from '@ant-design/icons';
 import { Space, Table } from 'antd';
 import type { ColumnsType } from 'antd/es/table';
 import type { PaginationProps } from 'antd';
-import { Pagination } from 'antd';
+// import { Pagination } from 'antd';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { useDispatch, useSelector } from "react-redux";
-import { AddCat, AddPro, RemovePro, View } from '../Assest/Redux/Action';
+import { AddPro, RemovePro, View } from '../Assest/Redux/Action';
+import { Products } from '../Assest/Services/Config';
 
 
 interface DataType {
@@ -76,7 +77,7 @@ const CategoryView: React.FC = () => {
         setObj(obj => ({ ...Obj, [name]: value, Created: "Admin" }));
     };
     const Deleted = (ind: any) => {
-        dispatch(RemovePro(ind.id, "Products"));
+        dispatch(RemovePro(ind.id, Products));
     };
 
     const columns: ColumnsType<DataType> = [

@@ -8,6 +8,7 @@ import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { useDispatch, useSelector } from "react-redux";
 import { AddCat, RemoveCat, View } from '../Assest/Redux/Action';
+import { Category } from '../Assest/Services/Config';
 
 
 interface DataType {
@@ -45,7 +46,7 @@ const CategoryView: React.FC = () => {
     const dispatch = useDispatch();
 
     const Deleted = (ind: any) => {
-        dispatch(RemoveCat(ind.id, "Category"));
+        dispatch(RemoveCat(ind.id, Category));
     };
     const columns: ColumnsType<DataType> = [
         {
